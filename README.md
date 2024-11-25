@@ -16,7 +16,7 @@ rbxAdmin is an administrative tool for Roblox. It is inspired by the popular [tx
 1. Cloning the Repo.
    ```bash
    git clone https://github.com/WhoAboutYT/rbxAdmin.git
-   cd rbxAdmin```
+   cd rbxAdmin
 2. Replace all contents of the folder outside of the folder inside of the folder.
 3. Zip with Winrar/7Z
 4. Use hosting such as Pterodactyl / Puffer Pannel, Upload the .zip file, and unzip it. Then, host it for your staff members to use.
